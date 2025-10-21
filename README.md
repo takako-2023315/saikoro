@@ -7,7 +7,7 @@
   </head>
   <body style="margin:0; padding:0;">
     <model-viewer
-      src="saikoro.glb"
+      src="Saikoro.glb"
       alt"さいころ 3D"
       ar
       ar-modes="webxr scene-viewer quick-lool"
